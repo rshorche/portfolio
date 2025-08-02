@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<h1><b>Reza Shorche's Personal Portfolio</b></h1>
+<h1><b>Reza Shorche Personal Portfolio</b></h1>
 <p>A modern and fully responsive portfolio website built with React, Vite, and Tailwind CSS.</p>
 <a href="https://rshorche.vercel.app/" target="_blank">
 <strong>🚀 View Live Demo</strong>
@@ -58,8 +58,9 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/rshorche/rshorche.git
-cd portfolio
+git clone https://github.com/rshorche/rshorche
+<br>
+cd rshorche
 
 2. Install dependencies:
 
@@ -141,8 +142,9 @@ You can now view the project at http://localhost:5173 (or another port shown in 
 
 ۱. کلون کردن ریپازیتوری:
 
-git clone https://github.com/rshorche/rshorche.git
-cd portfolio
+git clone https://github.com/rshorche/rshorche
+<br>
+cd rshorche
 
 ۲. نصب وابستگی‌ها:
 
