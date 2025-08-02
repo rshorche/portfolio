@@ -11,14 +11,14 @@
 <div align="center">
 <h1><b>Reza Shorche's Personal Portfolio</b></h1>
 <p>A modern and fully responsive portfolio website built with React, Vite, and Tailwind CSS.</p>
-<a href="https://portfolio-rshorches-projects.vercel.app/" target="_blank">
+<a href="https://rshorche.vercel.app/" target="_blank">
 <strong>🚀 View Live Demo</strong>
 </a>
 </div>
 
 <br>
 
-<a href="https://portfolio-rshorches-projects.vercel.app/" target="_blank">
+<a href="https://rshorche.vercel.app/" target="_blank">
 <img src="./src/assets/portfolio.webp" alt="Project Preview"/>
 </a>
 
@@ -94,14 +94,14 @@ You can now view the project at http://localhost:5173 (or another port shown in 
 <div align="center">
 <h1><b>پورتفولیو شخصی رضا شورچه</b></h1>
 <p>یک وب‌سایت پورتفولیو مدرن و کاملاً واکنش‌گرا که با React، Vite و Tailwind CSS ساخته شده است.</p>
-<a href="https://portfolio-rshorches-projects.vercel.app/" target="_blank">
+<a href="https://rshorche.vercel.app/" target="_blank">
 <strong>🚀 مشاهده نسخه آنلاین</strong>
 </a>
 </div>
 
 <br>
 
-<a href="https://portfolio-rshorches-projects.vercel.app/" target="_blank">
+<a href="https://rshorche.vercel.app/" target="_blank">
 <img src="./src/assets/portfolio.webp" alt="پیش‌نمایش پروژه"/>
 </a>
 
