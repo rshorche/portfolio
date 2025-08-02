@@ -58,7 +58,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/rshorche/portfolio.git
+git clone https://github.com/rshorche/rshorche.git
 cd portfolio
 
 2. Install dependencies:
@@ -141,7 +141,7 @@ You can now view the project at http://localhost:5173 (or another port shown in 
 
 ۱. کلون کردن ریپازیتوری:
 
-git clone https://github.com/rshorche/portfolio.git
+git clone https://github.com/rshorche/rshorche.git
 cd portfolio
 
 ۲. نصب وابستگی‌ها:
